@@ -1,3 +1,4 @@
+# NetStream - Host & Client Video Chat Application
 from flask import Flask, render_template_string, request
 from flask_socketio import SocketIO
 from gevent.pywsgi import WSGIServer
